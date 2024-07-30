@@ -10,5 +10,5 @@
 <img width="562" alt="스크린샷 2024-07-30 오전 11 24 00" src="https://github.com/user-attachments/assets/0933ffb5-06e8-4ecd-8fbc-97d5517a9fab">
 <img width="579" alt="스크린샷 2024-07-30 오전 11 24 16" src="https://github.com/user-attachments/assets/58bb3e46-e8c7-426f-bdb5-d9e13ab89eaa">
 
-# 모델 테스스를 통한 소리 인식 결과
+# 모델 테스트를 통한 소리 인식 결과
 <img width="854" alt="스크린샷 2024-07-30 오전 11 24 32" src="https://github.com/user-attachments/assets/5a5b17ff-5436-47ac-a7af-d8cd299b5c15">
